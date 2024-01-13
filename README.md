@@ -27,5 +27,5 @@ To run the Car Price Prediction project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/nirajkark/car_price_lasso_regression.git
    cd car_price_lasso regression
